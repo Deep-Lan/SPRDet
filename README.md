@@ -8,9 +8,9 @@ This is a surface plasmon resonance(SPR) excitation angle detection software bas
 <img src="https://github.com/Deep-Lan/SPRDet/blob/main/figures/fig1.png" />
 </div>
 
-<center>
-![](https://github.com/Deep-Lan/SPRDet/blob/main/figures/fig1.png)
-</center>
+ <center>
+ ![](https://github.com/Deep-Lan/SPRDet/blob/main/figures/fig1.png)
+ </center>
 
 ## Algorithm
 
