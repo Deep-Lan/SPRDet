@@ -16,4 +16,6 @@ The software provides a complete solution for the detection of excitation angles
 
 <div  align="center">    
 <img src="https://github.com/Deep-Lan/SPRDet/blob/main/figures/fig2.png" />
+  
+Fig.2 Detection algorithm
 </div>
