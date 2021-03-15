@@ -27,6 +27,6 @@ Fig.3 shows the software GUI. It is the main interface of 2D SPR excitation angl
 <div  align="center">    
 <img src="https://github.com/Deep-Lan/SPRDet/blob/main/figures/fig3.jpg" />
   
-Fig.2 Detection algorithm
+Fig.3 Software GUI
 </div>
 
