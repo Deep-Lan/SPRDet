@@ -2,7 +2,7 @@
 
 ## Background
 
-This is a surface plasmon resonance(SPR) excitation angle detection software based on deep learning. It was developed for users engaged in nano-optical detection technology, especially in the features extraction of 2D SPR excitation angle. The commonly used SPR coupling types mainly include prismatic mode and high numerical aperture microscope mode. For the high numerical aperture microscope type, the features of the best excitation angle are represented by a set of symmetrical absorption arcs or circles formed on the back focal plane(BFP) behind the len, so it is important to precisely locate the position of the absorption arcs or circles to extract the features. Fig.1 shows the surface plasmon microscope system.
+This is a surface plasmon resonance(SPR) excitation angle detection software based on deep learning and pattern recognition. It was developed for users engaged in nano-optical detection technology, especially in the features extraction of 2D SPR excitation angle. The commonly used SPR coupling types mainly include prismatic mode and high numerical aperture microscope mode. For the high numerical aperture microscope type, the features of the best excitation angle are represented by a set of symmetrical absorption arcs or circles formed on the back focal plane(BFP) behind the len, so it is important to precisely locate the position of the absorption arcs or circles to extract the features. Fig.1 shows the surface plasmon microscope system.
 
 <div  align="center">    
 <img src="https://github.com/Deep-Lan/SPRDet/blob/main/figures/fig1.png" />
@@ -22,4 +22,11 @@ Fig.2 Detection algorithm
 
 ## Software
 
-Fig.3 shows the software GUI.
+Fig.3 shows the software GUI. It is the main interface of 2D SPR excitation angle position recognition software, which is divided into directory and file module (Fig.3-A area), result recording module (Fig.3-B area), input image display module (Fig.3-C area), detection image display module (Fig.3-D area), parameter setting module (Fig.3-E area), display module (Fig.3-F area) and button module (Fig.3-G area).
+
+<div  align="center">    
+<img src="https://github.com/Deep-Lan/SPRDet/blob/main/figures/fig3.jpg" />
+  
+Fig.2 Detection algorithm
+</div>
+
