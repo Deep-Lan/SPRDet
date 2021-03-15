@@ -5,7 +5,7 @@
 This is a surface plasmon resonance (SPR) excitation angle detection software based on deep learning and pattern recognition. It was developed for users engaged in nano-optical detection technology, especially in the features extraction of 2D SPR excitation angle. The commonly used SPR coupling types mainly include prismatic mode and high numerical aperture microscope mode. For the high numerical aperture microscope type, the features of the best excitation angle are represented by a set of symmetrical absorption arcs or circles formed on the back focal plane (BFP) behind the len, so it is important to precisely locate the position of the absorption arcs or circles to extract the features. Fig.1 shows the surface plasmon microscope (SPM) system.
 
 <div  align="center">    
-<img src="https://github.com/Deep-Lan/SPRDet/blob/main/figures/fig1.png" width="90%" height="90%" />
+<img src="https://github.com/Deep-Lan/SPRDet/blob/main/figures/fig1.png" width="50%" height="50%" />
 
 Fig.1 Surface plasmon microscope system
 </div>
