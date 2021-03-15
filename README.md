@@ -2,7 +2,7 @@
 
 ## Background
 
-This is a surface plasmon resonance(SPR) excitation angle detection software based on deep learning and pattern recognition. It was developed for users engaged in nano-optical detection technology, especially in the features extraction of 2D SPR excitation angle. The commonly used SPR coupling types mainly include prismatic mode and high numerical aperture microscope mode. For the high numerical aperture microscope type, the features of the best excitation angle are represented by a set of symmetrical absorption arcs or circles formed on the back focal plane(BFP) behind the len, so it is important to precisely locate the position of the absorption arcs or circles to extract the features. Fig.1 shows the surface plasmon microscope system.
+This is a surface plasmon resonance (SPR) excitation angle detection software based on deep learning and pattern recognition. It was developed for users engaged in nano-optical detection technology, especially in the features extraction of 2D SPR excitation angle. The commonly used SPR coupling types mainly include prismatic mode and high numerical aperture microscope mode. For the high numerical aperture microscope type, the features of the best excitation angle are represented by a set of symmetrical absorption arcs or circles formed on the back focal plane (BFP) behind the len, so it is important to precisely locate the position of the absorption arcs or circles to extract the features. Fig.1 shows the surface plasmon microscope (SPM) system.
 
 <div  align="center">    
 <img src="https://github.com/Deep-Lan/SPRDet/blob/main/figures/fig1.png" />
@@ -30,3 +30,15 @@ Fig.3 shows the software GUI. It is the main interface of 2D SPR excitation angl
 Fig.3 Software GUI
 </div>
 
+The procedure of using the software are shown as follows.
+1. Set the parameters of your SPM.
+2. Select the directory which contains BFP images.
+3. Click a "run" botton to get the results.
+4. Click the "save" botton to save the outcome data.
+Fig.4 shows the demo.
+
+<div  align="center">    
+<img src="https://github.com/Deep-Lan/SPRDet/blob/main/figures/fig4.png" width="70%" height="70%" />
+  
+Fig.4 Demo
+</div>
