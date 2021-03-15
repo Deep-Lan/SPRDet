@@ -25,7 +25,7 @@ Fig.2 Detection algorithm
 Fig.3 shows the software GUI. It is the main interface of 2D SPR excitation angle position recognition software, which is divided into directory and file module (Fig.3-A area), result recording module (Fig.3-B area), input image display module (Fig.3-C area), detection image display module (Fig.3-D area), parameter setting module (Fig.3-E area), display module (Fig.3-F area) and button module (Fig.3-G area).
 
 <div  align="center">    
-<img src="https://github.com/Deep-Lan/SPRDet/blob/main/figures/fig3.jpg" width="50%" height="50%" />
+<img src="https://github.com/Deep-Lan/SPRDet/blob/main/figures/fig3.jpg" width="70%" height="70%" />
   
 Fig.3 Software GUI
 </div>
