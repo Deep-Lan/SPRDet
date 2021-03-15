@@ -19,3 +19,7 @@ The software provides a complete solution for the detection of excitation angles
   
 Fig.2 Detection algorithm
 </div>
+
+## Software
+
+Fig.3 shows the software GUI.
